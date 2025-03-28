@@ -4,6 +4,8 @@ Select language: EN | [CN](./README_zh_CN.md)
 This is for mining XKR with Termux on Android. 
 
 It is recommended to get the latest version of termux <a href="https://wiki.termux.com/wiki/Installing_from_F-Droid">here</a>.
+
+The file is modified to adapt to phones with 4 GB memory,
  
 ```
 apt-get update
