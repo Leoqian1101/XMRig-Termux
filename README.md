@@ -17,7 +17,7 @@ Now on to cloning XMRig repo.
 ```
 apt update 
 apt upgrade  
-git clone https://github.com/xmrig/xmrig.git 
+git clone https://github.com/Leoqian1101/xmrig.git 
 cd xmrig
 ```
 It should look something like this now.
